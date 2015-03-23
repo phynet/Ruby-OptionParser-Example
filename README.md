@@ -1,6 +1,7 @@
 # Ruby-Option_Parser_example
 
 Just use the default input. 
+    
     -p 
     -s 
     --long 
