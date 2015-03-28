@@ -1,6 +1,8 @@
-# Ruby-Option_Parser_example
+# Ruby-Option Parser Example
 
-Just use the default input. 
+This script it's a code example on how to implement OPTIONS in you Ruby code.
+
+If you use the default input, you will se the output printed.
     
     -p 
     -s 
